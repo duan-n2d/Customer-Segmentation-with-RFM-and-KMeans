@@ -16,9 +16,10 @@ In marketing and any business field related to customer service, understanding a
 
 ## Project Overview
 This research combines traditional marketing segmentation methods with modern data science techniques. By applying the RFM model and K-means clustering, the project segments customers into distinct groups, providing insights for personalized marketing strategies.
+
 ## Research Methods
 The project utilizes a combination of quantitative and qualitative research methods:
-
+![screenshot](Picture1.png)
 - Literature Review: Reviewing existing research on customer segmentation and machine learning applications in marketing.
 - Data Collection: Using sales and customer data from AdventureWorks Cycles.
 - Data Analysis: Applying Exploratory Data Analysis (EDA) and data preprocessing techniques.
