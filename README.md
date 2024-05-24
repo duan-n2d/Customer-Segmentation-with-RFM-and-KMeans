@@ -10,6 +10,7 @@ This project is the final assignment for the interdisciplinary research methods 
 - [Usage](#usage)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ## Introduction
 In marketing and any business field related to customer service, understanding and effectively targeting customers is crucial. This project aims to segment customers into different groups based on their behavior and value using the RFM model and machine learning techniques. This segmentation helps businesses to tailor their marketing strategies more effectively.
@@ -71,3 +72,6 @@ Nguyen Duy Duan, Bui Chanh Thien, Le Thi Thu Tinh, Le Huong Giang, Nguyen Thuy T
 
 ## Acknowledgments
 We extend our sincere gratitude to our professors, PGS.TS. Ho Trung Thanh and ThS.Nguyen Văn Ho, for their guidance and support. We also thank the University of Economics and Law for providing us with the resources and knowledge to complete this project.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
