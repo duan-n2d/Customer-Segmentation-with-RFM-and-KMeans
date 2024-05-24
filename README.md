@@ -1,6 +1,11 @@
 # RFM K-means Customer Segmentation
 This Jupyter notebook provides a Python implementation for customer segmentation using RFM (Recency, Frequency, Monetary) analysis combined with K-means clustering. The purpose is to group customers based on their purchasing behavior to identify valuable segments for targeted marketing strategies.
 
+## Models
+<p align="center">
+  <img src="Picture1.png" title="hover text">
+</p>
+
 ## Installation
 The notebook utilizes various Python libraries. Ensure you have them installed, especially if you plan to run the code locally. The required libraries include:
 ```
