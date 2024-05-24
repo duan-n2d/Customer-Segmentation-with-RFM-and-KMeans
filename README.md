@@ -44,3 +44,83 @@ The results of the segmentation are visualized using scatter plots, snake plots,
 
 ## Conclusion
 The notebook concludes with insights derived from the customer segmentation analysis and recommendations for marketing strategies targeting different customer segments.
+Customer Segmentation in Marketing Using RFM and Machine Learning
+This project is the final assignment for the interdisciplinary research methods course at the University of Economics and Law, focusing on customer segmentation in marketing using RFM (Recency, Frequency, Monetary) analysis combined with machine learning techniques.
+
+Table of Contents
+Introduction
+Project Overview
+Research Methods
+Technologies Used
+Installation
+Usage
+Contributors
+Acknowledgments
+License
+Introduction
+In marketing and any business field related to customer service, understanding and effectively targeting customers is crucial. This project aims to segment customers into different groups based on their behavior and value using the RFM model and machine learning techniques. This segmentation helps businesses to tailor their marketing strategies more effectively.
+
+Project Overview
+This research combines traditional marketing segmentation methods with modern data science techniques. By applying the RFM model and K-means clustering, the project segments customers into distinct groups, providing insights for personalized marketing strategies.
+
+Objectives
+To analyze customer segmentation in marketing using the RFM model combined with machine learning.
+To provide actionable insights for better customer management and business growth.
+To develop a comprehensive model that integrates theories and methods from previous studies.
+Research Methods
+The project utilizes a combination of quantitative and qualitative research methods:
+
+Literature Review: Reviewing existing research on customer segmentation and machine learning applications in marketing.
+Data Collection: Using sales and customer data from AdventureWorks Cycles.
+Data Analysis: Applying Exploratory Data Analysis (EDA) and data preprocessing techniques.
+Model Implementation: Using RFM analysis and K-means clustering for segmentation.
+Evaluation: Assessing the model using metrics such as the Elbow method and Silhouette score.
+Technologies Used
+Programming Language: Python
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Tools: Jupyter Notebook
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Sao chép mã
+git clone https://github.com/yourusername/customer-segmentation.git
+Navigate to the project directory:
+
+bash
+Sao chép mã
+cd customer-segmentation
+Create a virtual environment:
+
+bash
+Sao chép mã
+python3 -m venv venv
+Activate the virtual environment:
+
+On Windows:
+bash
+Sao chép mã
+venv\Scripts\activate
+On MacOS/Linux:
+bash
+Sao chép mã
+source venv/bin/activate
+Install the dependencies:
+``` bash
+pip install -r requirements.txt
+```
+## Usage
+1. Prepare the data: Place your dataset in the `data/` directory.
+2. Run the Jupyter Notebook:
+```bash
+jupyter notebook
+```
+3. Open and run the notebook: Open customer_segmentation.ipynb and run the cells to see the analysis and results.
+
+## Contributors
+Nguyen Duy Duan, Bui Chanh Thien, Le Thi Thu Tinh, Le Huong Giang, Nguyen Thuy Tram.
+
+## Acknowledgments
+We extend our sincere gratitude to our professors, PGS.TS. Hồ Trung Thành and ThS.Nguyễn Văn Hồ, for their guidance and support. We also thank the University of Economics and Law for providing us with the resources and knowledge to complete this project.
